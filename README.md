@@ -26,3 +26,4 @@ I am continuously working to improve this editor and add new features. Here are 
 
 ##Contributing
 I welcome contributions from the community! Please feel free to submit pull requests or open issues if you encounter any problems.
+
